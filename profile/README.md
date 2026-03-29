@@ -9,7 +9,7 @@ I'm a passionate software developer who mostly enjoys low-level system programmi
 ## ⏲️ Stats
 
 Coding activity over the last year (only started on 19th March 2026):
-<figure><embed src="https://wakatime.com/share/@768d3575-0a78-45ed-bf98-b65d858e4790/506ff820-fa23-49ee-9b09-15e6f684fb81.svg"></embed></figure>
+<img src="https://wakatime.com/share/@768d3575-0a78-45ed-bf98-b65d858e4790/1a048d8c-f049-4c66-aca8-dce1e9fe23fd.svg" alt="WakaTime stats">
 
 ## 📁 Projects
 - **UASM**: Universal Assembly - A platform-agnostic instruction set that has no real-world use and is mostly to test my skills. Includes a virtual machine and multi-pass compiler for converting written UASM into UASM bytecode.
