@@ -8,7 +8,6 @@ I'm a passionate software developer who mostly enjoys low-level system programmi
 
 ## ⏲️ Stats
 
-Coding activity over the last year (only started on 19th March 2026):
 <img src="https://wakatime.com/share/@768d3575-0a78-45ed-bf98-b65d858e4790/1a048d8c-f049-4c66-aca8-dce1e9fe23fd.svg" alt="WakaTime stats">
 
 ## 📁 Projects
