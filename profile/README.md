@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @mtasker07
 
-I'm a passionate software developer who mostly enjoys low-level system programming and writing the code that you're code runs on.
+I'm a passionate software developer who mostly enjoys low-level system programming and writing the code that runs the world.
 
 - **Languages**: C++, C#, JavaScript/TypeScript, Python, HTML+CSS.
 - **Interests**: Compilers/Interpreters, Virtual Machines, System Tooling, Reverse Engineering, CPU design, etc.
